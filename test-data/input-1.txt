@@ -1,0 +1,4 @@
+GT4500,2,0.0,2,0.0    # Inicializálunk 2-2 torpedót, hiba nélkül
+TORPEDO,SINGLE        # Elsődleges tárból lő
+TORPEDO,SINGLE        # Másodlagos tárból lő
+EXIT
