@@ -1,0 +1,5 @@
+GT4500,1,0.0,2,0.0    # Elsődlegesben 1, másodlagosban 2 torpedó van
+TORPEDO,SINGLE        # Elsődleges lő (kifogyott)
+TORPEDO,SINGLE        # Másodlagos lő (marad 1)
+TORPEDO,SINGLE        # Elsődleges jönne, de üres, így ismét a másodlagos lő
+EXIT

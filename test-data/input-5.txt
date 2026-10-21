@@ -1,0 +1,4 @@
+GT4500,0,0.0,2,0.0    # Elsődleges üres, Másodlagosban 2 db van
+TORPEDO,SINGLE        # Másodlagos lő (mert az elsődleges üres)
+TORPEDO,SINGLE        # Elsődleges jönne, de üres, így megint a másodlagos lő
+EXIT
