@@ -1,0 +1,5 @@
+GT4500,1,1.0,1,1.0    # 1-1 torpedó, de mindkettő 100%-ban meghibásodik
+TORPEDO,ALL           # Mindkettőből próbál lőni, de mindkettő elromlik
+GT4500,1,1.0,1,0.0    # Elsődleges 100% hibás, Másodlagos hibátlan
+TORPEDO,ALL           # Elsődleges elromlik, Másodlagos sikeres
+EXIT
