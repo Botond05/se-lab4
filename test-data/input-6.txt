@@ -1,0 +1,4 @@
+GT4500,0,0.0,0,0.0    # 0 torpedó mindkét tárban
+TORPEDO,SINGLE        # Megpróbál lőni (de nincs miből)
+TORPEDO,ALL           # Megpróbál mindkettőből lőni (de nincs miből)
+EXIT
